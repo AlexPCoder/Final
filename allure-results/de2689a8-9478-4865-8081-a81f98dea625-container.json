@@ -1,0 +1,1 @@
+{"uuid":"de2689a8-9478-4865-8081-a81f98dea625","name":"UITestsEdge.setUp","children":["9c1f76af-7158-41a6-8da5-0c77bba0bd85"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1727182813775,"stop":1727182814875}],"afters":[],"start":1727182813775,"stop":1727182814875}

@@ -1,0 +1,1 @@
+{"uuid":"ef80cac3-0c32-413a-bc31-361848699487","name":"UITestsFireFox.setUp","children":["804f10c9-0eb5-4b4b-a890-14804d77f01f"],"description":"","befores":[{"name":"setUp","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1727178820829,"stop":1727178820829}],"afters":[],"start":1727178820829,"stop":1727178820829}

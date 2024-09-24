@@ -13,3 +13,5 @@ P
  src/test/java/UITestsChrome.java,4\2\421599adfade8c5ff90bf7fd102f54572ef3f6b1
 R
 "src/test/java/RestAssuredTest.java,a\c\ac0e75900fb887706536e0b145386253b9f1e5e2
+N
+src/test/java/UITestsEdge.java,c\e\ce36caf76628d61dc9867124258b792368f4445c

@@ -1,0 +1,1 @@
+{"uuid":"3e88659e-03c6-49cd-9bf4-710cbf70aa3d","name":"UITestsFireFox.tearDown","children":["a2db7103-4b62-47de-87eb-a6196caaf8db"],"description":"","befores":[],"afters":[{"name":"tearDown","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1727179767272,"stop":1727179767272}],"start":1727179767272,"stop":1727179767272}
