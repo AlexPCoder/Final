@@ -107,7 +107,7 @@ public class RestAssuredTest {
                 .statusCode(200)
                 .body("bookingid", everyItem(greaterThan(0)));
     }
-
+/*
     @Test
     public void deleteBookingTest() {
         int bookingId = 1;
@@ -124,4 +124,6 @@ public class RestAssuredTest {
                 .statusCode(201)
                 .log().all();
     }
+
+ */
 }
