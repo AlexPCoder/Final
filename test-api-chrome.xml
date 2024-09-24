@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="API and Chrome Tests">
+  <test name="API Tests">
+    <classes>
+      <class name="com.example.ApiTests"/>
+    </classes>
+  </test>
+  <test name="UI Tests on Chrome">
+    <classes>
+      <class name="com.example.UITestsChrome"/>
+    </classes>
+  </test>
+</suite>

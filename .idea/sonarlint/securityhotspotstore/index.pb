@@ -13,3 +13,7 @@ R
 "src/test/java/RestAssuredTest.java,a\c\ac0e75900fb887706536e0b145386253b9f1e5e2
 N
 src/test/java/UITestsEdge.java,c\e\ce36caf76628d61dc9867124258b792368f4445c
+C
+TestSuiteChrome.xml,9\3\93c407eb73b5a2cdb3a69724e9feed20c9ae769f
+A
+TestSuiteEdge.xml,6\5\65b43c7408eccc029350636c0ea35ad872f610dc
