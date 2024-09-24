@@ -1,0 +1,1 @@
+{"uuid":"5a62e5e1-e87e-4e00-9eda-3a73f91fa8f1","name":"UITestsChrome.setUp","children":["affb6fb8-e57f-4b24-af25-6bf598eb1bea"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1727201662473,"stop":1727201663863}],"afters":[],"start":1727201662473,"stop":1727201663863}
