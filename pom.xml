@@ -33,12 +33,6 @@
       <scope>test</scope>пше
     </dependency>
 
-    <!-- Selenium Java -->
-    <dependency>
-      <groupId>org.seleniumhq.selenium</groupId>
-      <artifactId>selenium-java</artifactId>
-      <version>4.10.0</version>
-    </dependency>
 
     <!-- WebDriver Manager для автоуправления драйверами браузеров -->
     <dependency>
